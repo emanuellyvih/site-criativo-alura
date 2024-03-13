@@ -9,7 +9,7 @@
 <body>
     <body>
         <header>
-            <img src="https://images.pexels.com/photos/20142050/pexels-photo-20142050/free-photo-of-ensolarado-jardim-parque-folha.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt=" flowers night">
+            <img src="https://images.pexels.com/photos/20142050/pexels-photo-20142050/free-photo-of-ensolarado-jardim-parque-folha.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="flowers night">
             <ul>
                 <li>Escola</li>
                 <li>Estudante</li>
