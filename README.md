@@ -8,13 +8,13 @@
 </head>
 <body>
     <body>
-        <header>
-            <img src="https://images.pexels.com/photos/20142050/pexels-photo-20142050/free-photo-of-ensolarado-jardim-parque-folha.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="flowers night">
-            <ul>
-                <li>Escola</li>
-                <li>Estudante</li>
-            </ul>
-        </header>
+           <header class="cabecalho">
+        <img class="cabecalho-imagem" src="alurastart logo.png" alt="logo da alura start">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item">Escola</li>
+            <li class="cabecalho-lista-item">Estudante</li>
+        </ul>
+    </header>
     </body>    
 </body>
 </html>
